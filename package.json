@@ -16,5 +16,6 @@
     "mongodb": "^3.6.2",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {}
 }
