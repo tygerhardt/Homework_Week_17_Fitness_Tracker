@@ -19,3 +19,5 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
+
+  Link to deployed app: https://fathomless-spire-90948.herokuapp.com/?id=5f860ecf19a17d0017598dd1 
